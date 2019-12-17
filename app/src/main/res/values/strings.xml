@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DevizApp</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Favourites</string>
+    <string name="exchange_currencies">Exchange</string>
+    <string name="available_currencies">All</string>
+    <string name="base_currency">Base currency:</string>
+    <string name="selected_currency">selected</string>
+    <string name="from_currency">From:</string>
+    <string name="to">To:</string>
+    <string name="choose_currency">Choose currency</string>
+    <string name="invert_currencies">Invert currencies</string>
+    <string name="load_exchange">Load exchange</string>
+    <string name="save_exchange">Save exchange</string>
+</resources>
